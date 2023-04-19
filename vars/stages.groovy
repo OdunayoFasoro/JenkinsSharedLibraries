@@ -13,3 +13,6 @@ def call(String stageName){
        sh "mvn clean deploy"
      }
 }
+
+
+
